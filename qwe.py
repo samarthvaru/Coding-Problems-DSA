@@ -12,6 +12,7 @@ def func(a):
     output_str = ' '.join(words) 
     return output_str
 
+#print
 print(func(a))
 
 

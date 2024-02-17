@@ -16,4 +16,3 @@ class Solution:
                 r += num_map[n]
                 num -= n
         return r
-        
